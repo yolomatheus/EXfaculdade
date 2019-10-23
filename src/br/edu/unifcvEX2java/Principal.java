@@ -47,7 +47,7 @@ public class Principal {
 		Operario O = new Operario();
 		
 		O.setNome("Luiz");
-		O.setEndereço("Joaquim Barbosa");
+		O.setEndereço("Joaquim hBarbosa");
 		O.setTelefone("5274-1875");
 		O.setCodigoSetor(3);
 		//O.CalcularSalario();
